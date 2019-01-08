@@ -1,0 +1,12 @@
+{
+    "accessKeyId": "[accessKeyId]",
+    "secretAccessKey": "[secretAccessKey]",
+    "region": "[region]",
+
+    "bucket": "[bucket]",
+    "stream": "[stream]",
+
+    "dsn": "tcp://[user]:[password]@[host]:[port]/[database]",
+    "table": "[table]"
+}
+

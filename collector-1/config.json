@@ -1,0 +1,14 @@
+{
+    "accessKeyId": "[accessKeyId]",
+    "secretAccessKey": "[secretAccessKey]",
+    "region": "[region]",
+
+    "stream": "[stream]",
+    "partitionKey": "[partitionKey]",
+
+    "sensors": {
+       "light": 0,
+       "temperature": 1,
+       "sound": 2
+    }
+}
